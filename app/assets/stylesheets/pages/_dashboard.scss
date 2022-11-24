@@ -1,0 +1,120 @@
+.dash{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  background-image: url('https://res.cloudinary.com/dhxefoe7j/image/upload/v1669289562/share/To_5_hvfevm.png');
+  background-position: center;
+  background-size: cover;
+  padding: 40px;
+  height: 100vh;
+  padding: 20px 40px;
+
+}
+input, button, select, optgroup, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  background-color: white;
+border-radius: 4px;}
+.send{
+  background: rgb(104,44,235);
+  background: linear-gradient(90deg, rgba(104,44,235,1) 37%, rgba(43,33,154,1) 100%);
+  border-radius: 4px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(211, 183, 231, 0.684) 0px 8px 16px -8px;
+  padding: 30px;
+  height: 400px;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+.right{
+  color: white;
+}
+.right h1{
+  color: rgb(109, 107, 246) ;
+  font-size: 80px;
+  font-weight: bold;
+}
+.right p{
+  font-size: 40px;
+}
+.sendbox h2{
+  color: white;
+
+
+
+}
+.formula{
+padding: 20px 0 20px ;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+.for
+.sendbox input #myfile{
+  background-color: white;
+}
+button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
+  color: white;
+  cursor: pointer;
+  border: none;
+  background: black;
+}
+button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled):hover{
+  font-weight: bold;
+}
+.sendbox .label{
+  color: white;
+}
+.upgrade-standard{
+  color: white;
+  margin-bottom: 16px;
+
+}
+.upgrade-standard a{
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 4px 8px;
+  background: rgb(16,85,200);
+  background: linear-gradient(90deg, rgba(16,85,200,1) 37%, rgba(33,152,154,1) 100%);
+  font-size: 24px;
+}
+.upgrade-standard a:hover{
+  font-weight: bold;
+  border: white 1px solid;
+
+}
+.upgrade-premium a{
+  color: white;
+  text-decoration: none;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: rgb(136,72,227);
+  background: linear-gradient(90deg, rgba(136,72,227,1) 37%, rgba(58,6,157,1) 100%);
+  font-size: 24px;
+}
+.upgrade-premium a:hover{
+  font-weight: bold;
+  border: white 1px solid;
+}
+.navvv .navbar{
+  background-color: black;
+}
+.navvv .navbar .nav-link{
+  color: rgb(109, 107, 246);
+  padding: 6px 8px;
+  border: rgb(109, 107, 246) 1px solid ;
+  border-radius: 12px;
+  margin: 6px;
+}
+.navvv .navbar .nav-link:hover{
+  color: rgb(109, 107, 246);
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.13);
+  color: white;
+}
